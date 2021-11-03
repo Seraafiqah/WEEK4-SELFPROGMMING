@@ -1,0 +1,11 @@
+package Selfprogramming;
+
+public class AssiggnmentConversion {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int dollars = 20;
+double money =dollars;
+System.out.println("My mom give me " + dollars);
+	 }
+}
